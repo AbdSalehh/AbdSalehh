@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Abd. Saleh github stats](https://github-readme-stats.vercel.app/api?username=Saleh-387&show_icons=true) ![Abd. Saleh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saleh-387)
+<p align="left">
+<a href="https://github.com/Saleh-387">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saleh-387&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saleh-387&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
