@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Abd. Saleh github stats](https://github-readme-stats.vercel.app/api?username=Saleh-387&show_icons=true) ![Abd. Saleh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saleh-387)
