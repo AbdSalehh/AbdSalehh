@@ -18,8 +18,8 @@ src="https://github.com/Saleh-387/Saleh-387/blob/main/images/Hi.gif" height="32"
 <h2 align="left">Statistics</h2>
 <p align="left">
 <a href="https://github.com/AbdSalehh">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdSalehh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdSalehh&layout=compact&langs_count=8&theme=radical"/>
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdSalehh&theme=radical" alt="abdsalehh" />
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdSalehh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdSalehh&layout=compact&langs_count=8&theme=radical"/>
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdSalehh&theme=radical" alt="abdsalehh" />
 </a>
 </p>
