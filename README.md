@@ -1,8 +1,9 @@
+![banner](https://github.com/AbdSalehh/AbdSalehh/blob/main/images/giphy.gif)
+
 <h1 align="center">Hi there </a> <img
 src="https://github.com/Saleh-387/Saleh-387/blob/main/images/Hi.gif" height="32" />, I'm <a href="https://github.com/Saleh-387/" target="_blank">Saleh</h1>
 ​
-<img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/images/programmer.gif" height="auto" width="400">
-​
+<img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/images/programmer.gif" height="auto" width="400">​
 
 - 💻 I’m a student at **University of Muhammadiyah Malang**
 
@@ -10,9 +11,8 @@ src="https://github.com/Saleh-387/Saleh-387/blob/main/images/Hi.gif" height="32"
 
 - 💬 Ask me about **Front End Web Development**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
 - ⚡ Fun fact : **I enjoy developing websites**
+
 <br><br><br><br>
 <p align="left">
 <a href="https://github.com/AbdSalehh">
