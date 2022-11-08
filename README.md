@@ -1,6 +1,3 @@
-<img src="https://github.com/AbdSalehh/AbdSalehh/blob/main/images/front%20end.webp">
-
-​
 <h1 align="center">Hi there </a> <img
 src="https://github.com/Saleh-387/Saleh-387/blob/main/images/Hi.gif" height="32" />, I'm <a href="https://github.com/Saleh-387/" target="_blank">Saleh</h1>
 ​
