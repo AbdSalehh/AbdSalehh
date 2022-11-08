@@ -3,15 +3,16 @@ src="https://github.com/Saleh-387/Saleh-387/blob/main/images/Hi.gif" height="32"
 ​
 <img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/images/programmer.gif" height="auto" width="400">
 ​
-- 🔭 I’m currently working on **Buckoid Android App**
 
-- 🌱 I’m currently learning **DevOps**
+- 💻 I’m a student at **University of Muhammadiyah Malang**
 
-- 💬 Ask me about **Android , MEARN**
+- 🌱 I’m currently learning **Javascript Frameworks**
+
+- 💬 Ask me about **Front End Web Development**
 
 - 📫 How to reach me **rishavchanda0@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact : **I enjoy developing websites**
 <br><br><br><br>
 <p align="left">
 <a href="https://github.com/AbdSalehh">
