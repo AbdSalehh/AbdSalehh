@@ -28,6 +28,7 @@
 <br>
 <h2 align="left"><a href="https://www.dicoding.com/">Dicoding Academy</a> Certificates</h2>
 
+<h3>
 - <a href="https://www.dicoding.com/certificates/81P2GJWR8POY">Web Programming Basic</a>
 
 - <a href="https://www.dicoding.com/certificates/EYX42N3YWZDL">Front-End Web Beginner</a>
@@ -39,6 +40,7 @@
 - <a href="https://www.dicoding.com/certificates/07Z6G52EJXQR">JavaScript Programming Basic</a>
 
 - <a href="https://www.dicoding.com/certificates/MEPJKK80WX3V">Back-End Web Beginner</a>
+</h3>
 
 <br>
 <h2 align="left">Statistics</h2>
