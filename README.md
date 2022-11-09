@@ -1,6 +1,5 @@
-<h1 align="center">Hi there </a> <img
-src="https://github.com/Saleh-387/Saleh-387/blob/main/images/Hi.gif" height="32" />, I'm <a href="https://github.com/AbdSalehh/">Saleh</h1>
-<img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/images/programmer.gif" height="auto" width="400">
+<p align="center"><a href="https://github.com/AbdSalehh/"><img width="80%" alt="Hello, I'm Abd. Saleh." src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/banner.gif" /></a></p>
+<img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/programmer.gif" height="auto" width="400">
 
 - 💻 I’m a student at **University of Muhammadiyah Malang**
 
@@ -9,6 +8,8 @@ src="https://github.com/Saleh-387/Saleh-387/blob/main/images/Hi.gif" height="32"
 - 💬 Ask me about **Front End Web Development**
 
 - ⚡ Fun fact : **I enjoy developing websites**
+
+- 🎮 I like to **Play Games**
 
 <br><br><br><br>
 <h2 align="left">Languages and Tools:</h2>
@@ -25,16 +26,16 @@ src="https://github.com/Saleh-387/Saleh-387/blob/main/images/Hi.gif" height="32"
 
 - <a href="https://www.dicoding.com/certificates/2VX3Y2KMVPYQ">Front-End Web Developer Expert</a>
 
-- <a href="https://www.dicoding.com/certificates/07Z6G52EJXQR">JavaScript Programming Basics</a>
+- <a href="https://www.dicoding.com/certificates/07Z6G52EJXQR">JavaScript Programming Basic</a>
 
-- <a href="https://www.dicoding.com/certificates/2VX3Y2KMVPYQ">Back-End Web Beginner</a>
+- <a href="https://www.dicoding.com/certificates/MEPJKK80WX3V">Back-End Web Beginner</a>
 
 <br>
 <h2 align="left">Statistics</h2>
 <p align="middle">
 <a href="https://github.com/AbdSalehh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdSalehh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdSalehh&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdSalehh&theme=radical" alt="abdsalehh" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdSalehh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdSalehh&layout=compact&langs_count=8&theme=radical"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdSalehh&theme=radical" alt="abdsalehh" />
 </a>
 </p>
