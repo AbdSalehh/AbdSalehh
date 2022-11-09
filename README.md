@@ -14,15 +14,15 @@
 <br><br><br><br>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
-<img src="assets/icons/HTML.svg" alt="HTML" width="60" height="60"/>&nbsp;
-<img src="assets/icons/CSS.svg" alt="CSS" width="60" height="60"/>&nbsp;
-<img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="60" height="60"/>&nbsp;
-<img src="assets/icons/JavaScript.svg" alt="Javascript" width="60" height="60"/>&nbsp;
-<img src="assets/icons/React-Dark.svg" alt="React" width="60" height="60"/>&nbsp;
-<img src="assets/icons/NodeJS-Dark.svg" alt="Node JS" width="60" height="60"/>&nbsp;
-<img src="assets/icons/Webpack-Dark.svg" alt="Webpack" width="60" height="60"/>&nbsp;
-<img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="60" height="60"/>&nbsp;
-<img src="assets/icons/Github-Dark.svg" alt="Github" width="60" height="60"/>&nbsp;
+<img src="assets/icons/HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="assets/icons/CSS.svg" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="assets/icons/JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
+<img src="assets/icons/React-Dark.svg" alt="React" width="40" height="40"/>&nbsp;
+<img src="assets/icons/NodeJS-Dark.svg" alt="Node JS" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Webpack-Dark.svg" alt="Webpack" width="40" height="40"/>&nbsp;
+<img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
 </p>
 
 <br>
