@@ -10,8 +10,12 @@
 - ⚡ Fun fact : **I enjoy developing websites**
 
 - 🎮 I like to **Play Games**
+<br><br>
+<a href="https://github.com/AbdSalehh/">
+   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AbdSalehh&style=flat-square&label=Profile+Views&color=0891b2" />
+</a>
 
-<br><br><br><br>
+<br>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <img src="assets/icons/HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
