@@ -1,5 +1,5 @@
-<p align="center"><a href="https://github.com/AbdSalehh/"><img width="80%" alt="Hello, I'm Abd. Saleh." src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/banner.gif" /></a></p>
-<img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/programmer.gif" height="auto" width="400">
+<p align="center"><a href="https://github.com/AbdSalehh/"><img width="80%" alt="Hello, I'm Abd. Saleh." src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/banner1.gif" /></a></p>
+<img align="right" src="https://github.com/AbdSalehh/AbdSalehh/blob/main/assets/images/programmer1.gif" height="auto" width="400">
 
 - 💻 I’m a student at **University of Muhammadiyah Malang**
 
