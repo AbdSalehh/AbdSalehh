@@ -34,17 +34,17 @@
 
 <h4>
 
-- <a href="https://www.dicoding.com/certificates/81P2GJWR8POY">Web Programming Basic</a>
+- <a href="https://www.dicoding.com/certificates/81P2GJWR8POY">Pemrograman Web Dasar</a>
 
-- <a href="https://www.dicoding.com/certificates/EYX42N3YWZDL">Front-End Web Beginner</a>
+- <a href="https://www.dicoding.com/certificates/EYX42N3YWZDL">Front-End Web Pemula</a>
 
-- <a href="https://www.dicoding.com/certificates/07Z6RN30JPQR">Front-End Web Development Fundamental</a>
+- <a href="https://www.dicoding.com/certificates/07Z6RN30JPQR">Fundamental Front-End Web Development</a>
 
 - <a href="https://www.dicoding.com/certificates/2VX3Y2KMVPYQ">Front-End Web Developer Expert</a>
 
-- <a href="https://www.dicoding.com/certificates/07Z6G52EJXQR">JavaScript Programming Basic</a>
+- <a href="https://www.dicoding.com/certificates/07Z6G52EJXQR">JavaScript Programming Dasar</a>
 
-- <a href="https://www.dicoding.com/certificates/MEPJKK80WX3V">Back-End Web Beginner</a>
+- <a href="https://www.dicoding.com/certificates/MEPJKK80WX3V">Back-End Web Pemula</a>
 </h4>
 
 <br>
