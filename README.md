@@ -35,13 +35,15 @@
 <h4>
    
 - <a href="https://www.dicoding.com/certificates/81P2GJWR8POY">Pemrograman Web Dasar</a>
-
-- <a href="https://www.dicoding.com/certificates/NVP79JOMOZR0">React JS Pemula</a>
    
 - <a href="https://www.dicoding.com/certificates/EYX42N3YWZDL">Front-End Web Pemula</a>
+   
+- <a href="https://www.dicoding.com/certificates/NVP79JOMOZR0">React JS Pemula</a>
 
 - <a href="https://www.dicoding.com/certificates/07Z6RN30JPQR">Fundamental Front-End Web Development</a>
 
+- <a href="https://www.dicoding.com/certificates/EYX49Q5DJPDL">React Web Developer Expert</a>
+   
 - <a href="https://www.dicoding.com/certificates/2VX3Y2KMVPYQ">Front-End Web Developer Expert</a>
 
 - <a href="https://www.dicoding.com/certificates/07Z6G52EJXQR">JavaScript Programming Dasar</a>
