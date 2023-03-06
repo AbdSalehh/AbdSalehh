@@ -20,13 +20,17 @@
 <p align="left"> 
 <img src="assets/icons/HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="assets/icons/CSS.svg" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="assets/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/>&nbsp;
 <img src="assets/icons/JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
 <img src="assets/icons/React-Dark.svg" alt="React" width="40" height="40"/>&nbsp;
 <img src="assets/icons/NodeJS-Dark.svg" alt="Node JS" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Webpack-Dark.svg" alt="Webpack" width="40" height="40"/>&nbsp;
 <img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Git.svg" alt="Git" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Netlify-Dark.svg" alt="Netlify" width="40" height="40"/>&nbsp;
 </p>
 
 <br>
@@ -34,21 +38,21 @@
 
 <h4>
    
-- <a href="https://www.dicoding.com/certificates/81P2GJWR8POY">Pemrograman Web Dasar</a>
+- <a target="_blank" href="https://www.dicoding.com/certificates/81P2GJWR8POY">Pemrograman Web Dasar</a>
    
-- <a href="https://www.dicoding.com/certificates/EYX42N3YWZDL">Front-End Web Pemula</a>
+- <a target="_blank" href="https://www.dicoding.com/certificates/EYX42N3YWZDL">Front-End Web Pemula</a>
    
-- <a href="https://www.dicoding.com/certificates/NVP79JOMOZR0">React JS Pemula</a>
+- <a target="_blank" href="https://www.dicoding.com/certificates/NVP79JOMOZR0">React JS Pemula</a>
 
-- <a href="https://www.dicoding.com/certificates/07Z6RN30JPQR">Fundamental Front-End Web Development</a>
+- <a target="_blank" href="https://www.dicoding.com/certificates/07Z6RN30JPQR">Fundamental Front-End Web Development</a>
 
-- <a href="https://www.dicoding.com/certificates/EYX49Q5DJPDL">React Web Developer Expert</a>
+- <a target="_blank" href="https://www.dicoding.com/certificates/EYX49Q5DJPDL">React Web Developer Expert</a>
    
-- <a href="https://www.dicoding.com/certificates/2VX3Y2KMVPYQ">Front-End Web Developer Expert</a>
+- <a target="_blank" href="https://www.dicoding.com/certificates/2VX3Y2KMVPYQ">Front-End Web Developer Expert</a>
 
-- <a href="https://www.dicoding.com/certificates/07Z6G52EJXQR">JavaScript Programming Dasar</a>
+- <a target="_blank" href="https://www.dicoding.com/certificates/07Z6G52EJXQR">JavaScript Programming Dasar</a>
 
-- <a href="https://www.dicoding.com/certificates/MEPJKK80WX3V">Back-End Web Pemula</a>
+- <a target="_blank" href="https://www.dicoding.com/certificates/MEPJKK80WX3V">Back-End Web Pemula</a>
 </h4>
 
 <br>
